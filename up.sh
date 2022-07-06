@@ -11,3 +11,4 @@ chown -R www-data:www-data /var/www/pterodactyl/*
 php artisan queue:restart
 php artisan up
 echo "Done :)"
+echo "Thanks for using my script!"
